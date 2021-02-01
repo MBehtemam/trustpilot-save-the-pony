@@ -1,0 +1,1 @@
+export const PONY_ENDPOINT = `https://ponychallenge.trustpilot.com/pony-challenge/maze`
